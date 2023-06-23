@@ -1,0 +1,7 @@
+Email_Address, A Patron's Email_Address (For Donahue use Program Leader's email)
+First_Name, Patron's First Name
+Last_Name, Patron's Last Name
+ID, Some unique ID for the patron maps to External System ID and Username
+Barcode, Patron's barcode sometimes called Library Number
+Expiration_Date, The end date for the patron's program [yyyy-MM-dd]
+Patron_Group, The patron group to be assigned to the patron
